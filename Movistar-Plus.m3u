@@ -1,0 +1,349 @@
+#EXTM3U tvg-shift=+1
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TVE.png" ,LA 1 FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17128.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TVE.png" ,LA 1 HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2699.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/LA2.png" ,LA 2 HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2700.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/A3.png" ,ANTENA 3 FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17114.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/A3.png" ,ANTENA 3 HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2721.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/C4.png" ,CUATRO FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17122.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/C4.png" ,CUATRO HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2713.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/T5.png" ,TELECINCO FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17150.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/T5.png" ,TELECINCO HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2695.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/SEXTA.png" ,LA SEXTA FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17130.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/SEXTA.png" ,LA SEXTA HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2698.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV3.png" ,#0 FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17641.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV3.png" ,#0 HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2729.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d9/74/78/d974789663deec36a1a2523f7d16f8d6.png" ,=======>PELICULAS
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/7481.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPXTRA.png" ,XTRA FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17144.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPXTRA.png" ,XTRA HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2715.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV1.png" ,ESTRENOS FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17136.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV1.png" ,ESTRENOS HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2718.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOLE.png" ,DCINE FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17134.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOLE.png" ,DCINE HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2719.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOME.png" ,COMEDIA FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17133.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOME.png" ,COMEDIA HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2720.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPACCI.png" ,ACTION FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17132.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPACCI.png" ,ACTION HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2688.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TCM.png" ,TCM FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17149.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TCM.png" ,TCM HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2726.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/AMC.png" ,AMC
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5415.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PARCH.png" ,Paramount
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/6968.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/HOLLYW.png" ,HOLLYWOOD FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17127.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/HOLLYW.png" ,HOLLYWOOD HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2725.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d9/74/78/d974789663deec36a1a2523f7d16f8d6.png" ,=======>SERIES
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/7481.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPSER.png" ,SERIES FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17142.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPSER.png" ,SERIES HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2711.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV2.png" ,SERIES XTRA FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17143.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV2.png" ,SERIES XTRA HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2712.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CL13.png" ,CALLE 13 FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17118.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CL13.png" ,CALLE 13 HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2714.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TNT.png" ,TNT FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17151.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TNT.png" ,TNT HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5416.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/AXN.png" ,AXN FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17115.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/AXN.png" ,AXN HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2705.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/SET.png" ,AXN WHITE FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17116.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/SET.png" ,AXN WHITE HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2706.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXGE.png" ,FOX FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17125.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXGE.png" ,FOX HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2697.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXCR.png" ,FOX LIFE FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17126.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXCR.png" ,FOX LIFE HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2696.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/SCI-FI.png" ,SYFY FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17148.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/SCI-FI.png" ,SYFY
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5417.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PCM.png" ,Comedy Central FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17120.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PCM.png" ,COMEDY CENTRAL HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/6719.ts
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/ae-logo-png-transparent.png" ,A&E
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5414.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CYM.png" ,Crimen Investigation
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/6984.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png" ,COSMO FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17121.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png" ,COSMO HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5412.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/SUNDAN.png" ,SUNDANCE FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17147.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d9/74/78/d974789663deec36a1a2523f7d16f8d6.png" ,=======>DOCUMENTALES
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/7481.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCRMAX.png" ,DMAX
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17733.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/VJR.png" ,VIAJAR FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17153.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/VJR.png" ,VIAJAR HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2722.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/NATGEO.png" ,NATIONAL GEOGRAPHIC FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17145.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/NATGEO.png" ,NATIONAL GEOGRAPHIC HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2702.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/NATGW.png" ,NAT GEO WILD FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17146.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/NATGW.png" ,NAT GEO WILD HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2701.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/HIST.png" ,HISTORIA
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2728.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCR.png" ,DISCOVERY
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2704.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCR.png" ,DISCOVERY CHANNEL HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2703.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ODISEA.png" ,Odisea
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17734.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DECASA.png" ,CANAL DECASA
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5426.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CACOC.png" ,CANAL COCINA
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5425.ts
+#EXTINF:-1 tvg-logo="http://picons.karrié.de/snp.kodi.transparent-white_2015-08-31--20-35-24/tv/40tv.png" ,40 TV
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/6720.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MTV.png" ,MTV ESPANA
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/6985.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d9/74/78/d974789663deec36a1a2523f7d16f8d6.png" ,=======>GENERALISTAS - INFANTIL
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/7481.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MEGA.png" ,MEGA
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2724.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/NEOX.png" ,NEOX
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5408.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ATRESS.png" ,Atreseries FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17112.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/FDFIC.png" ,FDF
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5411.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DIVINI.png" ,DIVINITY
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5410.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ENERGY.png" ,Energy
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/6696.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BEMAD.png" ,BeMad tv FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17117.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/NICKJR.png" ,NICK Jr
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2707.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCHXD.png" ,DISNEY XD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2709.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PLAYDC.png" ,DISNEY JUNIOR
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2710.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCH.png" ,DISNEY CHANNEL FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17123.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCH.png" ,DISNEY CHANNEL HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2708.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCH.png" ,DISNEY SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17471.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PANDA.png" ,PANDA
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5428.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/NICK.png" ,NICKELODEON HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5419.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CLANTV.png" ,Clan Tve
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5418.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BOING.png" ,Boing
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5420.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BABY.png" ,BABY TV
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/9165.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d9/74/78/d974789663deec36a1a2523f7d16f8d6.png" ,=======>DEPORTES
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/7481.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" ,F1 FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17137.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" ,F1 HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/3065.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" ,F1
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/3067.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVMTGP.png" ,MOTOGP FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17140.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MVMTGP.png" ,MOTOGP
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/3066.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" ,DEPORTES 1 FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17135.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" DEPORTES 1 HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2693.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPD2.png" ,DEPORTES 2 FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17131.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPD2.png" ,DEPORTES 2 HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2694.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIGA.png" ,LIGA HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2690.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIGA.png" ,LIGA 2 HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2691.ts
+#EXTINF:-1 tvg-logo="https://www.bartyapp.com/wp-content/uploads/2018/01/laliga-123.png" ,LaLiga 123 FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17018.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIGA.png" ,BeiN La Liga FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/8677.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIGA.png" ,BeiN La liga FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16861.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIGA.png" ,BeIN LA Liga HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5423.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIGA.png" ,BeiN La Liga
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16858.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELIGA.png" ,BbeIN LA Liga 1 HD Backup
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/8676.ts
+#EXTINF:-1 tvg-logo="http://epg-ott.telecable.es/canales/big/103.png" ,LA LIGA TV BAR FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17129.ts
+#EXTINF:-1 tvg-logo="http://epg-ott.telecable.es/canales/big/103.png" ,LA LIGA TV BAR HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5424.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPFUT.png" ,FUTBOL FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17138.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPFUT.png" ,FUTBOL HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2692.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPFUT.png" ,FUTBOL
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/3068.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPPART.png" ,PARTIDAZO FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17141.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPPART.png" ,PARTIDAZO HD (event only)
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/8807.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ESP.png" ,EUROSPORT 1 FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17124.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ESP.png" ,EUROSPORT 1
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/6694.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ESP2.png" ,EUROSPORT 2
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/6695.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CHUEFA.png" ,beIN Sports FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/11776.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CHUEFA.png" ,beIN Sports HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5422.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CHUEFA.png" ,beIN Sports HD ( 1080P )
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/6724.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CHUEFA.png" ,Bein Sports FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16875.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CHUEFA.png" ,Bein Sports
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16874.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BeiN Sports Max 1 FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16877.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BeiN Sports Max 1
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16876.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BeiN Sports Max 2 FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16879.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BeiN Sports Max 2
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16878.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BeiN Sports Max 3
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16880.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BeiN La Liga Max 1 FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16860.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BeiN La Liga Max 1
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16859.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,beIN LaLiga Max 2 FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16863.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,beIN LaLiga Max 2
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16862.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BeiN LaLiga Max 3
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16864.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BeiN LaLiga Max 4
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16865.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BeiN LaLiga Max 5
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16866.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BeiN LaLiga Max 6
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16867.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BeiN Laliga Max 7
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16868.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,Bein Max 4
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16869.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,Bein Max 5
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16870.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,Bein Max 6
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16871.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,Bein Max 7
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16872.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,Bein Max 8
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/16873.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png" ,IBERALIA
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5427.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" ,Caza Y Pesca FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17119.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" ,Caza y pesca
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5413.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TDEP.png" ,TELEDEPORTE HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2723.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png" ,Real Madrid TV FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17113.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png" ,Real Madrid Channel
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/7680.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BARNA.png" ,BARCA TV
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/6718.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/GOL.png" ,GOL Tv
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/5421.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" ,XTRM
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17369.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png" ,TOROS FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17152.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png" ,TOROS HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2717.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF+.png" ,GOLF FHD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17139.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF+.png" ,GOLF HD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/2716.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BEIN SPORT MAX 1 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17489.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BEIN SPORT MAX 10 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17480.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BEIN SPORT MAX 2 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17488.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BEIN SPORT MAX 3 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17487.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BEIN SPORT MAX 4 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17486.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BEIN SPORT MAX 5 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17485.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BEIN SPORT MAX 6 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17484.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BEIN SPORT MAX 7 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17483.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BEIN SPORT MAX 8 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17482.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BELI4K.png" ,BEIN SPORT MAX 9 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17481.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png" ,Multideporte 1 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17479.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png" ,Multideporte 2 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17478.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png" ,Multideporte 3 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17477.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png" ,Multideporte 4 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17476.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png" ,Multideporte 5 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17475.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png" ,MULTIFUTBOOL 1 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17474.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png" ,MULTIFUTBOOL 2 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17473.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/ARTHUR.png" ,MULTIFUTBOOL 3 SD
+http://premium-iptv.link:6969/live/asusg.ordy@gmail.com/5NS42C0MvB/17472.ts
