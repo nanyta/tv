@@ -1,101 +1,101 @@
 #EXTM3U tvg-shift=1
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TVE.png" ,LA 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1hd.png" ,LA 1 HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17128.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TVE.png" ,LA 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1.png" ,LA 1
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2699.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/LA2.png" ,LA 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la2.png" ,LA 2
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2700.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/A3.png" ,Antena 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/antena3hd.png" ,Antena 3 HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17114.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/A3.png" ,Antena 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/antena3.png" ,Antena 3
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2721.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/C4.png" ,Cuatro HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cuantrohd.png" ,Cuatro HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17122.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/C4.png" ,Cuatro
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cuantro.png" ,Cuatro
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2713.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/T5.png" ,Telecinco HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/telecincohd.png" ,Telecinco HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17150.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/T5.png" ,Telecinco
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/telecinco.png" ,Telecinco
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2695.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/SEXTA.png" ,La Sexta HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lasextahd.png.png" ,La Sexta HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17130.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/SEXTA.png" ,La Sexta
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lasexta.png" ,La Sexta
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2698.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV3.png" ,#0 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0 HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17641.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV3.png" ,#0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2729.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPXTRA.png" ,Movistar Xtra HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17144.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPXTRA.png" ,Movistar Xtra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2715.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV1.png" ,Movistar Estrenos HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17136.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV1.png" ,Movistar Estrenos
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2718.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOLE.png" ,Movistar DCine HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17134.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOLE.png" ,Movistar DCine
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2719.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOME.png" ,Movistar Comedia HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17133.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPCOME.png" ,Movistar Comedia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2720.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPACCI.png" ,Movistar Accion HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17132.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPACCI.png" ,Movistar Accion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2688.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TCM.png" ,TCM HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcmhd.png" ,TCM HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17149.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TCM.png" ,TCM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2726.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/AMC.png" ,AMC HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/amchd.png" ,AMC HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/5415.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PARCH.png" ,Paramount Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Channel
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/6968.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/HOLLYW.png" ,Hollywood HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywoodhd.png" ,Hollywood HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17127.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/HOLLYW.png" ,Hollywood
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywood.png" ,Hollywood
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2725.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPSER.png" ,Movistar Series HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17142.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CPSER.png" ,Movistar Series
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2711.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV2.png" ,Movistar Series Xtra HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseriesxtra.png" ,Movistar Series Xtra HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17143.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/MV2.png" ,Movistar Series Xtra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseriesxtra.png" ,Movistar Series Xtra
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2712.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CL13.png" ,Calle 13 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/calle13hd.png" ,Calle 13 HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17118.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CL13.png" ,Calle 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/calle13.png" ,Calle 13
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2714.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TNT.png" ,TNT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tnthd.png" ,TNT HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17151.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/TNT.png" ,TNT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tnt.png" ,TNT
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/5416.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/AXN.png" ,AXN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnhd.png" ,AXN HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17115.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/AXN.png" ,AXN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2705.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/SET.png" ,AXN White HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhitehd.png" ,AXN White HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17116.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/SET.png" ,AXN White
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2706.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXGE.png" ,Fox HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxhd.png" ,Fox HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17125.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXGE.png" ,Fox
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fox.png" ,Fox
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2697.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXCR.png" ,Fox Life HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxlifehd.png" ,Fox Life HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17126.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/FOXCR.png" ,Fox Life
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxlife.png" ,Fox Life
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/2696.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/SCI-FI.png" ,SYFY HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfyhd.png" ,SYFY HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17148.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/SCI-FI.png" ,SYFY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/5417.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PCM.png" ,Comedy Central HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/comedyhd.png" ,Comedy Central HD
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/17120.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PCM.png" ,Comedy Central
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/comedy.png" ,Comedy Central
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/6719.ts
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/ae-logo-png-transparent.png" ,AandE
 http://premium-iptv.link:6969/live/asusg.o.rd.y@gmail.com/UFSLEtD6SU/5414.ts
