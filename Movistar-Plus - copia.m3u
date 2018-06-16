@@ -1,0 +1,334 @@
+#EXTM3U tvg-shift=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1.png" ,LA 1 HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17128.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1.png" ,LA 1
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2699.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la2.png" ,LA 2
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2700.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/antena3.png" ,Antena 3 HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17114.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/antena3.png" ,Antena 3
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2721.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cuatro.png" ,Cuatro HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17122.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cuatro.png" ,Cuatro
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2713.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/telecinco.png" ,Telecinco HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17150.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/telecinco.png" ,Telecinco
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2695.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lasexta.png" ,La Sexta HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17130.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lasexta.png" ,La Sexta
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2698.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0 HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17641.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2729.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17144.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2715.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17136.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2718.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17134.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2719.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17133.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2720.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17132.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2688.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17149.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2726.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/amc.png" ,AMC HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5415.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Channel
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/6968.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywood.png" ,Hollywood HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17127.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywood.png" ,Hollywood
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2725.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17142.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2711.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseriesxtra.png" ,Movistar Series Xtra HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17143.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseriesxtra.png" ,Movistar Series Xtra
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2712.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/calle13.png" ,Calle 13 HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17118.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/calle13.png" ,Calle 13
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2714.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tnt.png" ,TNT HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17151.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tnt.png" ,TNT
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5416.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17115.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2705.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17116.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2706.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fox.png" ,Fox HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17125.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fox.png" ,Fox
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2697.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxlife.png" ,Fox Life HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17126.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxlife.png" ,Fox Life
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2696.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17148.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5417.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/comedy.png" ,Comedy Central HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17120.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/comedy.png" ,Comedy Central
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/6719.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ande.png" ,AandE
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5414.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/citv.png" ,Crimen + Investigacion
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/6984.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cosmo.png" ,COSMO HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17121.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cosmo.png" ,COSMO
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5412.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/sundancetv.png" ,Sundance
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dmax.png" ,DMAX
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17733.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17153.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2722.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17145.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2702.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17146.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2701.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/historia.png" ,Historia
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2728.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,DISCOVERY CHANNEL HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2703.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,Discovery
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2704.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/odisea.png" ,Odisea
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17734.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/decasa.png" ,Canal Decasa
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5426.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cocina.png" ,Canal Cocina
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5425.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/40tv.png" ,40 TV
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/6720.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mtv.png" ,MTV
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/6985.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mega.png" ,MEGA
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2724.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/neox.png" ,Neox
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5408.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/a3series.png" ,Atreseries FHD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17112.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fdf.png" ,Factoria de Ficcion
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5411.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/divinity.png" ,Divinity
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5410.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/energy.png" ,Energy
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/6696.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/bemad.png" ,BE MAD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17117.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nickjr.png" ,NICK JR
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2707.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dxd.png" ,Disney XD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2709.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PLAYDC.png" ,Disney Junior
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2710.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17123.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2708.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdisney.png" ,M. Disney
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17471.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/panda.png" ,Canal Panda
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5428.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nick.png" ,Nickelodeon HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5419.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/clan.png" ,Clan TVE
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5418.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/boing.png" ,Boing
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5420.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/babytv.png" ,Baby TV
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/9165.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17137.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/3065.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/3067.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17140.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/3066.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17135.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2693.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17131.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2694.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/8677.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16861.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5423.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16858.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga 1 HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/8676.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,LIGA 2 HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2691.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV BAR FHD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17129.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV BAR HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2690.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV BAR HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5424.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/liga123.png" ,LaLiga 123 FHD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17018.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17138.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2692.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/3068.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17141.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,PARTIDAZO HD (event only)
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/8807.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17124.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/6694.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro2.png" ,Eurosport 2
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/6695.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/11776.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/6724.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16875.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5422.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max1 HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16877.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max1
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16876.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max2 HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16879.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max2
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16878.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max3
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16880.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN La Liga Max 1 FHD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16860.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN La Liga Max 1
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16859.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,beIN LaLiga Max 2 FHD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16863.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,beIN LaLiga Max 2
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16862.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 3
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16864.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 4
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16865.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 5
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16866.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 6
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16867.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN Laliga Max 7
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16868.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 4
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16869.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 5
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16870.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 6
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16871.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 7
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16872.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 8
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/16873.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/iberalia.png" ,Iberalia TV
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5427.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17119.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5413.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/teledeporte.png" ,Teledeporte
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2723.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/rmadrid.png" ,Real Madrid TV
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17113.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/rmadrid.png" ,Real Madrid TV
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/7680.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/gol.png" ,GOL
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5421.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/xtrm.png" ,XTRM
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17369.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17152.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2717.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf HD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17139.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2716.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 1 SD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17489.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 10 SD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17480.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 2 SD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17488.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 3 SD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17487.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 4 SD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17486.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 5 SD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17485.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 6 SD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17484.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 7 SD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17483.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 8 SD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17482.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 9 SD
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17481.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 1
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17479.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 2
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17478.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 3
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17477.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 4
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17476.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 5
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17475.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 1
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17474.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 2
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17473.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 3
+http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17472.ts

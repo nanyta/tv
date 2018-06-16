@@ -1,30 +1,20 @@
 #EXTM3U tvg-shift=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1.png" ,LA 1 HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17128.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1.png" ,LA 1
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2699.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la2.png" ,LA 2
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2700.ts
+rtp://@239.0.0.185:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la2.png" ,LA 2 HD
+rtp://@239.0.0.183:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/antena3.png" ,Antena 3 HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17114.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/antena3.png" ,Antena 3
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2721.ts
+rtp://@239.0.0.186:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cuatro.png" ,Cuatro HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17122.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cuatro.png" ,Cuatro
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2713.ts
+rtp://@239.0.0.177:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/telecinco.png" ,Telecinco HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17150.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/telecinco.png" ,Telecinco
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2695.ts
+rtp://@239.0.0.176:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lasexta.png" ,La Sexta HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17130.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lasexta.png" ,La Sexta
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2698.ts
+rtp://@239.0.0.187:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tmadrid.png" ,Telemadrid
+rtp://@239.0.0.25:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0 HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17641.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2729.ts
+rtp://@239.0.5.187:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17144.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra
@@ -50,61 +40,41 @@ http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17149.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2726.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/amc.png" ,AMC HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5415.ts
+rtp://@239.0.9.132:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Channel
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/6968.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywood.png" ,Hollywood HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17127.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywood.png" ,Hollywood
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2725.ts
+rtp://@239.0.5.76:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17142.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2711.ts
+rtp://@239.0.5.250:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseriesxtra.png" ,Movistar Series Xtra HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17143.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseriesxtra.png" ,Movistar Series Xtra
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2712.ts
+rtp://@239.0.5.83:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/calle13.png" ,Calle 13 HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17118.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/calle13.png" ,Calle 13
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2714.ts
+rtp://@239.0.5.74:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tnt.png" ,TNT HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17151.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tnt.png" ,TNT
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5416.ts
+rtp://@239.0.5.87:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17115.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2705.ts
+rtp://@239.0.9.131:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White HD
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17116.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2706.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fox.png" ,Fox HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17125.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fox.png" ,Fox
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2697.ts
+rtp://@239.0.9.134:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxlife.png" ,Fox Life HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17126.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxlife.png" ,Fox Life
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2696.ts
+rtp://@239.0.0.165:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY HD
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17148.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5417.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/comedy.png" ,Comedy Central HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17120.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/comedy.png" ,Comedy Central
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/6719.ts
+rtp://@239.0.0.174:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ande.png" ,AandE
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5414.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/citv.png" ,Crimen + Investigacion
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/6984.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cosmo.png" ,COSMO HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17121.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cosmo.png" ,COSMO
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5412.ts
+rtp://@239.0.5.71:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/sundancetv.png" ,Sundance
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dmax.png" ,DMAX
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17733.ts
@@ -141,7 +111,7 @@ http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2724.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/neox.png" ,Neox
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5408.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/a3series.png" ,Atreseries FHD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17112.ts
+rtp://@239.0.0.190:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fdf.png" ,Factoria de Ficcion
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5411.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/divinity.png" ,Divinity
@@ -149,7 +119,21 @@ http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5410.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/energy.png" ,Energy
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/6696.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/bemad.png" ,BE MAD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17117.ts
+rtp://@239.0.0.182:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/otra.png" ,La Otra
+rtp://@239.0.0.26:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/csur.png" ,Canal Sur Andalucía
+rtp://@239.0.0.1:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/galicia.png" ,Galicia TV Europa
+rtp://@239.0.3.37:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/extremadura.png" ,Canal Extremadura SAT
+rtp://@239.0.0.52:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tv3.png" ,TV3CAT
+rtp://@239.0.3.36:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/etb.png" ,ETB Sat
+rtp://@239.0.0.60:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/aragon.png" ,Aragón TV Int
+rtp://@239.0.0.81:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nickjr.png" ,NICK JR
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2707.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dxd.png" ,Disney XD
@@ -157,7 +141,7 @@ http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2709.ts
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PLAYDC.png" ,Disney Junior
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2710.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel HD
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/17123.ts
+rtp://@239.0.0.173:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/2708.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdisney.png" ,M. Disney
@@ -167,7 +151,7 @@ http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5428.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nick.png" ,Nickelodeon HD
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5419.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/clan.png" ,Clan TVE
-http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5418.ts
+rtp://@239.0.0.184:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/boing.png" ,Boing
 http://premium-iptv.link:6969/live/a.s.u.s.gor.dy@gmail.com/uSRRA0lDnl/5420.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/babytv.png" ,Baby TV
