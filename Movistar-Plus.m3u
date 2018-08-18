@@ -269,7 +269,7 @@ http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17113.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/rmadrid.png" ,Real Madrid TV
 http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/7680.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/gol.png" ,GOL
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5421.ts
+rtp://@239.0.0.7:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/xtrm.png" ,XTRM
 http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17369.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
