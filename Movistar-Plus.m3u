@@ -16,33 +16,33 @@ rtp://@239.0.0.25:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0 HD
 rtp://@239.0.5.187:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17144.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17144.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2715.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2715.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17136.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17136.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2718.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2718.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17134.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17134.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2719.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2719.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17133.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17133.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2720.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2720.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17132.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17132.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2688.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2688.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17149.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17149.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2726.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2726.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/amc.png" ,AMC HD
 rtp://@239.0.9.132:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Channel
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/6968.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/6968.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywood.png" ,Hollywood HD
 rtp://@239.0.5.76:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series HD
@@ -56,68 +56,68 @@ rtp://@239.0.5.87:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN HD
 rtp://@239.0.9.131:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17116.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17116.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2706.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2706.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fox.png" ,Fox HD
 rtp://@239.0.9.134:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxlife.png" ,Fox Life HD
 rtp://@239.0.0.165:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17148.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17148.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5417.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5417.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/comedy.png" ,Comedy Central HD
 rtp://@239.0.0.174:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ande.png" ,AandE
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5414.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5414.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/citv.png" ,Crimen + Investigacion
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/6984.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/6984.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cosmo.png" ,COSMO HD
 rtp://@239.0.5.71:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/sundancetv.png" ,Sundance
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dmax.png" ,DMAX
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17733.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17733.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17153.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17153.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2722.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2722.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17145.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17145.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2702.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2702.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17146.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17146.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2701.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2701.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/historia.png" ,Historia
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2728.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2728.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,DISCOVERY CHANNEL HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2703.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2703.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,Discovery
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2704.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2704.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/odisea.png" ,Odisea
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17734.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17734.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/decasa.png" ,Canal Decasa
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5426.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5426.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cocina.png" ,Canal Cocina
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5425.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5425.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/40tv.png" ,40 TV
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/6720.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/6720.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mtv.png" ,MTV
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/6985.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/6985.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mega.png" ,MEGA
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2724.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2724.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/neox.png" ,Neox
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5408.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5408.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/a3series.png" ,Atreseries FHD
 rtp://@239.0.0.190:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fdf.png" ,Factoria de Ficcion
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5411.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5411.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/divinity.png" ,Divinity
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5410.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5410.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/energy.png" ,Energy
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/6696.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/6696.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/bemad.png" ,BE MAD
 rtp://@239.0.0.182:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/otra.png" ,La Otra
@@ -135,184 +135,184 @@ rtp://@239.0.0.60:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/aragon.png" ,Aragón TV Int
 rtp://@239.0.0.81:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nickjr.png" ,NICK JR
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2707.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2707.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dxd.png" ,Disney XD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2709.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2709.ts
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PLAYDC.png" ,Disney Junior
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2710.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2710.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel HD
 rtp://@239.0.0.173:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2708.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2708.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdisney.png" ,M. Disney
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17471.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17471.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/panda.png" ,Canal Panda
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5428.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5428.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nick.png" ,Nickelodeon HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5419.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5419.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/clan.png" ,Clan TVE
 rtp://@239.0.0.184:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/boing.png" ,Boing
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5420.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5420.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/babytv.png" ,Baby TV
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/9165.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/9165.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17137.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17137.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/3065.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/3065.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/3067.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/3067.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17140.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17140.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/3066.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/3066.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17135.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17135.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2693.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2693.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17131.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17131.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2694.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2694.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/8677.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/8677.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16861.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16861.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5423.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5423.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16858.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16858.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga 1 HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/8676.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/8676.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,LIGA 2 HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2691.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2691.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV BAR FHD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17129.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17129.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV BAR HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2690.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2690.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV BAR HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5424.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5424.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/liga123.png" ,LaLiga 123 FHD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17018.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17018.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17138.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17138.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2692.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2692.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/3068.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/3068.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17141.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17141.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,PARTIDAZO HD (event only)
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/8807.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/8807.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17124.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17124.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/6694.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/6694.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro2.png" ,Eurosport 2
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/6695.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/6695.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/11776.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/11776.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/6724.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/6724.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16875.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16875.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5422.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5422.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max1 HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16877.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16877.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max1
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16876.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16876.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max2 HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16879.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16879.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max2
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16878.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16878.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max3
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16880.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16880.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN La Liga Max 1 FHD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16860.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16860.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN La Liga Max 1
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16859.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16859.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,beIN LaLiga Max 2 FHD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16863.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16863.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,beIN LaLiga Max 2
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16862.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16862.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 3
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16864.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16864.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 4
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16865.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16865.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 5
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16866.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16866.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 6
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16867.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16867.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN Laliga Max 7
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16868.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16868.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 4
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16869.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16869.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 5
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16870.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16870.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 6
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16871.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16871.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 7
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16872.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16872.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 8
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/16873.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/16873.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/iberalia.png" ,Iberalia TV
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5427.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5427.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17119.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17119.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/5413.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/5413.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/teledeporte.png" ,Teledeporte
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2723.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2723.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/rmadrid.png" ,Real Madrid TV
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17113.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17113.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/rmadrid.png" ,Real Madrid TV
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/7680.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/7680.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/gol.png" ,GOL
 rtp://@239.0.0.7:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/xtrm.png" ,XTRM
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17369.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17369.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17152.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17152.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2717.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2717.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf HD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17139.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17139.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/2716.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/2716.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 1 SD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17489.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17489.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 10 SD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17480.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17480.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 2 SD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17488.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17488.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 3 SD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17487.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17487.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 4 SD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17486.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17486.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 5 SD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17485.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17485.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 6 SD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17484.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17484.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 7 SD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17483.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17483.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 8 SD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17482.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17482.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 9 SD
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17481.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17481.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 1
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17479.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17479.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 2
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17478.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17478.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 3
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17477.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17477.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 4
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17476.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17476.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 5
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17475.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17475.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 1
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17474.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17474.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 2
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17473.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17473.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 3
-http://premium-iptv.link:6969/live/as.usgordy@gmail.com/JDuUSMLjy0/17472.ts
+http://premium-iptv.link:6969/live/asus.go.rdy@gmail.com/LhpJHseYx0/17472.ts
