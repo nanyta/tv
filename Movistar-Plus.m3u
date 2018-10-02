@@ -41,8 +41,8 @@ http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17149.ts
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/2726.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/amc.png" ,AMC HD
 rtp://@239.0.9.132:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Channel
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/6968.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Network
+rtp://@239.0.0.90:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywood.png" ,Hollywood HD
 rtp://@239.0.5.76:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series HD
