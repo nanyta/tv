@@ -157,7 +157,7 @@ http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/5420.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/babytv.png" ,Baby TV
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/9165.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/vamos.png" ,Movistar Vamos HD
-rtp://@239.0.1.128:8208
+rtp://@239.0.5.197:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17137.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
