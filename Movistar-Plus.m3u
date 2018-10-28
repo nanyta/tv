@@ -107,7 +107,7 @@ http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/6720.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mtv.png" ,MTV
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/6985.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mega.png" ,MEGA
-http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/2724.ts
+rtp://@239.0.3.31:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/neox.png" ,Neox
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/5408.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/a3series.png" ,Atreseries FHD
