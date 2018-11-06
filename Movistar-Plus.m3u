@@ -16,31 +16,31 @@ rtp://@239.0.0.25:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0 HD
 rtp://@239.0.5.187:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12712.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12712.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9412.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9412.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12722.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12722.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9415.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9415.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12725.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12725.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5461.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5461.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12726.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12726.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5462.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5462.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12727.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12727.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5463.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5463.m3u8
 #EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="Movistar Cine Ñ ES" tvg-logo="http://picon.space/movistarcineespagnol.png" group-title="Spain",Movistar Cine Ñ ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5411.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5411.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12695.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12695.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9445.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9445.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/amc.png" ,AMC HD
 rtp://@239.0.9.132:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Network
@@ -58,61 +58,61 @@ rtp://@239.0.5.87:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN HD
 rtp://@239.0.9.131:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12730.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12730.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5470.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5470.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fox.png" ,Fox HD
 rtp://@239.0.9.134:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxlife.png" ,Fox Life HD
 rtp://@239.0.0.165:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12696.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12696.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5417.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5417.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/comedy.png" ,Comedy Central HD
 rtp://@239.0.0.174:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ande.png" ,AandE
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5474.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5474.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/citv.png" ,Crimen + Investigacion
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9433.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9433.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cosmo.png" ,COSMO HD
 rtp://@239.0.5.71:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/sundancetv.png" ,Sundance
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/20431.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/20431.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dmax.png" ,DMAX
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17733.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12717.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12717.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9424.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9424.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9441.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9441.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5455.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5455.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12698.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12698.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5476.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5476.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet ES" tvg-logo="http://picon.space/animalplanet.png" group-title="Spain",Animal Planet ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/11606.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/11606.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/historia.png" ,Historia
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9425.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9425.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,DISCOVERY CHANNEL HD
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/2703.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,Discovery
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5448.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5448.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/odisea.png" ,Odisea
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9417.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9417.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blaze España ES" tvg-logo="" group-title="Spain",Blaze España ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/21523.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/21523.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/decasa.png" ,Canal Decasa
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5460.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5460.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cocina.png" ,Canal Cocina
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5456.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5456.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/40tv.png" ,40 TV
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/6720.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mtv.png" ,MTV
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9448.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9448.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mega.png" ,MEGA
 rtp://@239.0.3.31:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/neox.png" ,Neox
@@ -130,7 +130,7 @@ rtp://@239.0.0.182:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/otra.png" ,La Otra
 rtp://@239.0.0.26:8208
 #EXTINF:-1 tvg-id="MezzoLive.es" tvg-name="Mezzo Live HD ES" tvg-logo="http://picon.space/mezzolivehd.png" group-title="Spain",Mezzo Live HD ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12702.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12702.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/csur.png" ,Canal Sur Andalucía
 rtp://@239.0.0.1:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/galicia.png" ,Galicia TV Europa
@@ -144,45 +144,45 @@ rtp://@239.0.0.60:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/aragon.png" ,Aragón TV Int
 rtp://@239.0.0.81:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nickjr.png" ,NICK JR
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/14247.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/14247.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dxd.png" ,Disney XD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9430.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9430.m3u8
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PLAYDC.png" ,Disney Junior
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9431.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9431.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel HD
 rtp://@239.0.0.173:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5446.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5446.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdisney.png" ,M. Disney
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17471.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/panda.png" ,Canal Panda
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9418.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9418.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nick.png" ,Nickelodeon HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12697.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12697.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/clan.png" ,Clan TVE
 rtp://@239.0.0.184:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/boing.png" ,Boing
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9429.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9429.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/babytv.png" ,Baby TV
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9427.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9427.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/vamos.png" ,Movistar Vamos HD
 rtp://@239.0.5.197:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12701.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12701.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5445.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5445.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12700.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12700.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5436.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5436.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12723.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12723.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5465.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5465.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12724.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12724.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9419.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9419.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga HD
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/8677.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga HD
@@ -196,25 +196,25 @@ http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/8676.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,LIGA 2 HD
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/2691.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12718.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12718.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/liga123.png" ,LaLiga 123
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/18232.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/18232.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12721.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12721.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5459.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5459.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5447.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5447.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12716.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12716.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Partidazo 4K ES" tvg-logo="http://picon.space/movistarpartidazo.png" group-title="Spain",Movistar Partidazo 4K ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/22849.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/22849.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12707.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12707.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5410.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5410.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro2.png" ,Eurosport 2
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/16844.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/16844.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/11776.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
@@ -262,29 +262,29 @@ http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16872.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 8
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16873.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/iberalia.png" ,Iberalia TV
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9408.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9408.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/13659.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/13659.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/9426.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/9426.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/teledeporte.png" ,Teledeporte
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/2723.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/rmadrid.png" ,Real Madrid TV
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5420.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5420.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/gol.png" ,GOL
 rtp://@239.0.0.7:8208
 #EXTINF:-1 tvg-id="" tvg-name="Movistar ESports ES" tvg-logo="" group-title="Spain",Movistar ESports ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/19150.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/19150.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/xtrm.png" ,XTRM
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17369.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12713.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12713.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5437.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5437.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf HD
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/12720.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/12720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/5458.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/5458.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 1 SD
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17489.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 10 SD
@@ -322,92 +322,92 @@ http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17473.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 3
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/17472.ts
 #EXTINF:-1 tvg-id="" tvg-name="Taquilla 1 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 1 HD ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15615.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15615.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Taquilla 2 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 2 HD ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15616.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15616.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Taquilla 3 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 3 HD ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15617.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15617.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Taquilla 4 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 4 HD ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15618.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15618.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Taquilla 5 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 5 HD ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15619.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15619.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Taquilla 6 HD ES" tvg-logo="http://picon.space/taquilla.png" group-title="Spain",Taquilla 6 HD ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15620.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15620.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="? For Adults [18+] ?" tvg-logo="http://picon.space/onlyadults.png" group-title="For Adults",? For Adults [18+] ?
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/16509.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/16509.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Penthouse 1 HD (18+) US" tvg-logo="http://picon.space/penthouse1hd.png" group-title="For Adults",Penthouse 1 HD (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15890.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15890.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Penthouse 2 HD (18+) US" tvg-logo="http://picon.space/penthouse2hd.png" group-title="For Adults",Penthouse 2 HD (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15891.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15891.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Redlight HD (18+) IT" tvg-logo="http://picon.space/redlighthd.png" group-title="For Adults",Redlight HD (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15882.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15882.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hustler HD (18+) US" tvg-logo="http://picon.space/hustlerhd.png" group-title="For Adults",Hustler HD (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15879.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15879.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hustler TV (18+) US" tvg-logo="http://picon.space/hustler.png" group-title="For Adults",Hustler TV (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15897.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15897.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beate-Uhse.TV (18+) DE" tvg-logo="http://picon.space/beateuhsetv.png" group-title="For Adults",Beate-Uhse.TV (18+) DE
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15888.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15888.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dorcel TV (18+) NL" tvg-logo="http://picon.space/dorcel.png" group-title="For Adults",Dorcel TV (18+) NL
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15914.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15914.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Brazzers TV (18+) US" tvg-logo="http://picon.space/brazzerstv.png" group-title="For Adults",Brazzers TV (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15913.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15913.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Private TV (18+) NL" tvg-logo="http://picon.space/privatetv.png" group-title="For Adults",Private TV (18+) NL
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15915.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15915.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Private TV HD (18+) NL" tvg-logo="http://picon.space/privatetv.png" group-title="For Adults",Private TV HD (18+) NL
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/21687.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/21687.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reality Kings TV (18+) US" tvg-logo="http://picon.space/realitykings.png" group-title="For Adults",Reality Kings TV (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15899.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15899.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Evil Angel TV (18+) US" tvg-logo="http://picon.space/evilangeltv.png" group-title="For Adults",Evil Angel TV (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15885.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15885.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dusk TV (18+) NL" tvg-logo="http://picon.space/dusk.png" group-title="For Adults",Dusk TV (18+) NL
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15878.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15878.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Venus (18+) AR" tvg-logo="http://picon.space/venus.png" group-title="For Adults",Venus (18+) AR
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15895.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15895.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCT (18+) IT" tvg-logo="http://picon.space/sct.png" group-title="For Adults",SCT (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15883.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15883.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCT HD (18+) IT" tvg-logo="http://picon.space/sct.png" group-title="For Adults",SCT HD (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15884.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15884.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sexto Senso (18+) IT" tvg-logo="http://picon.space/sextosenso.png" group-title="For Adults",Sexto Senso (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15886.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15886.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CENTO X CENTO TV (18+) IT" tvg-logo="http://picon.space/centopercentotv.png" group-title="For Adults",CENTO X CENTO TV (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15877.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15877.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HOT TV (18+) PT" tvg-logo="http://picon.space/hottv.png" group-title="For Adults",HOT TV (18+) PT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15894.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15894.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pink' o TV (18+) IT" tvg-logo="http://picon.space/pinkotv.png" group-title="For Adults",Pink' o TV (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15881.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15881.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PASSION XXX (18+) IT" tvg-logo="http://picon.space/passionxxx.png" group-title="For Adults",PASSION XXX (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15880.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15880.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperOne (18+) HU" tvg-logo="http://picon.space/superone.png" group-title="For Adults",SuperOne (18+) HU
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15900.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15900.m3u8
 #EXTINF:-1 tvg-id="Leo TV CZ" tvg-name="Leo TV (18+) CZ" tvg-logo="http://picon.space/leotv.png" group-title="For Adults",Leo TV (18+) CZ
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/14301.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/14301.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Playboy TV (18+) ES" tvg-logo="http://picon.space/playboy.png" group-title="For Adults",Playboy TV (18+) ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15911.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15911.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Playboy TV HD (18+) ES" tvg-logo="http://picon.space/playboy.png" group-title="For Adults",Playboy TV HD (18+) ES
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/15912.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/15912.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vivid (18+) US" tvg-logo="http://picon.space/vivid.png" group-title="For Adults",Vivid (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/16580.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/16580.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vivid Red HD (18+) US" tvg-logo="" group-title="For Adults",Vivid Red HD (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/23418.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/23418.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport 1 (18+ at night) DE" tvg-logo="http://picon.space/sport1-wispelutri.png" group-title="For Adults",Sport 1 (18+ at night) DE
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/7324.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/7324.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pink Erotic (18+) RS" tvg-logo="http://picon.space/pinkeroticrs.png" group-title="For Adults",Pink Erotic (18+) RS
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/17423.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/17423.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 2 (18+) RS" tvg-logo="http://picon.space/pinkerotic2rs.png" group-title="For Adults",Pink Erotic 2 (18+) RS
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/17424.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/17424.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 3 (18+) RS" tvg-logo="http://picon.space/pinkerotic3rs.png" group-title="For Adults",Pink Erotic 3 (18+) RS
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/17425.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/17425.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 4 (18+) RS" tvg-logo="http://picon.space/pinkerotic4rs.png" group-title="For Adults",Pink Erotic 4 (18+) RS
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/17426.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/17426.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live Stripe Club (18+) US" tvg-logo="" group-title="For Adults",Live Stripe Club (18+) US
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/18325.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/18325.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Balkan Hot 2 (18+) RS" tvg-logo="" group-title="For Adults",Balkan Hot 2 (18+) RS
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/19024.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/19024.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Meiden van Holland Hard (18+) NL" tvg-logo="" group-title="For Adults",Meiden van Holland Hard (18+) NL
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/21521.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/21521.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XMUVI (18+) IT" tvg-logo="" group-title="For Adults",XMUVI (18+) IT
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/21698.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/21698.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dorcel XXX FHD (18+) NL" tvg-logo="" group-title="For Adults",Dorcel XXX FHD (18+) NL
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/19026.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/19026.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EroXXX FHD (18+) NL" tvg-logo="" group-title="For Adults",EroXXX FHD (18+) NL
-http://tv.sharkiptv.hitv.one:80/live/vqm9uWS789/eUmpf4174/19025.m3u8
+http://tv.sharkiptv.hitv.one:80/live/VI4nefd999/EsRa2N810/19025.m3u8
