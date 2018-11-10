@@ -169,7 +169,7 @@ rtp://@239.0.0.66:8208
 rtp://@239.0.0.113:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/vamos.png" ,Vamos HD
 rtp://@239.0.5.197:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar 1080 Formula 1 HD
 http://bestbuyiptv.link:6969/a.sus.gordy@gmail.com/5oadj9gc6d/17137
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
 http://tv.sharkiptv.hitv.one:80/live/RHwcKrv988/m3pjJ9001/12701.m3u8
