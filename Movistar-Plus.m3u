@@ -1,53 +1,53 @@
 #EXTM3U tvg-shift=-1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1.png" ,LA 1 HD
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1 ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1.png" ,LA 1 HD
 rtp://@239.0.0.185:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la2.png" ,LA 2
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="LA 2 ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la2.png" ,LA 2 HD
 rtp://@239.0.0.183:8208
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3 ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/antena3.png",Antena 3 HD
 rtp://@239.0.0.186:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cuatro.png" ,Cuatro FHD
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cuatro.png" ,Cuatro HD
 rtp://@239.0.0.177:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/telecinco.png" ,Telecinco HD
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/telecinco.png" ,Telecinco HD
 rtp://@239.0.0.176:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lasexta.png" ,La Sexta HD
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lasexta.png" ,La Sexta HD
 rtp://@239.0.0.187:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tmadrid.png" ,Telemadrid
+#EXTINF:-1 tvg-id="TeleMadrid.es" tvg-name="Tele Madrid ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tmadrid.png" ,Telemadrid HD
 rtp://@239.0.0.25:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0 HD
+#EXTINF:-1 tvg-id="0.es" tvg-name="#0 ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0 HD
 rtp://@239.0.5.187:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
+#EXTINF:-1 tvg-id="MovistarXtra.es" tvg-name="Movistar Xtra ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17144
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12712.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="Movistar Estrenos ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17136
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12722.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine HD
+#EXTINF:-1 tvg-id="MovistarDCine.es" tvg-name="Movistar DCine ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar Drama HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17134
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12725.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia HD
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="Movistar Comedia ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17133
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12726.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="Movistar Acción ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17132
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12727.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/espanol.png" ,Movistar Cine Espanol
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="Movistar Cine Español ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/espanol.png" ,Movistar Cine Espanol
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/31563
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/somos.png" ,Somos
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30742
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM HD
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="TCM ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17149
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12695.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/amc.png" ,AMC HD
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="AMC ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/amc.png" ,AMC HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/5415
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Channel
+#EXTINF:-1 tvg-id="ParamountChannel.es" tvg-name="Paramount Channel ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Network
 rtp://@239.0.0.90:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywood.png" ,Hollywood HD
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="Hollywood ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywood.png" ,Hollywood HD
 rtp://@239.0.5.76:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/doc.png" ,Movistar CineDoc&Roll HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/31562
@@ -55,35 +55,35 @@ http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/31562
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17369
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dark.png" ,DARK
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30743
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series HD
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="Movistar Series ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series HD
 rtp://@239.0.5.250:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseriesxtra.png" ,Movistar Series Xtra HD
+#EXTINF:-1 tvg-id=""MovistarSeriesXtra.es" tvg-name="Movistar Series Xtra ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseriesxtra.png" ,Movistar Series Xtra HD
 rtp://@239.0.5.83:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/calle13.png" ,Calle 13 HD
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="Calle 13 ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/calle13.png" ,Calle 13 HD
 rtp://@239.0.5.74:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tnt.png" ,TNT HD
+#EXTINF:-1 tvg-id="TNT.es" tvg-name="TNT ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tnt.png" ,TNT HD
 rtp://@239.0.5.87:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN HD
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN HD
 rtp://@239.0.9.131:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White HD
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="AXN White ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17116
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12730.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fox.png" ,Fox HD
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="Fox ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fox.png" ,Fox HD
 rtp://@239.0.9.134:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxlife.png" ,Fox Life HD
+#EXTINF:-1 tvg-id="FoxLife.es" tvg-name="Fox Life ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxlife.png" ,Fox Life HD
 rtp://@239.0.0.165:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY HD
+#EXTINF:-1 tvg-id="Syfy.es" tvg-name="SYFY ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17148
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY HD
 http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/20947.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/comedy.png" ,Comedy Central HD
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="Comedy Central ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/comedy.png" ,Comedy Central HD
 rtp://@239.0.0.174:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ande.png" ,AandE
+#EXTINF:-1 tvg-id="AandE.es" tvg-name="A&amp;E ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ande.png" ,AandE
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/5414
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/citv.png" ,Crimen + Investigacion
+#EXTINF:-1 tvg-id="Crimen+Investigacion.es" tvg-name="Crimen + Investigación ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/citv.png" ,Crimen + Investigacion
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/6984
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cosmo.png" ,COSMO HD
+#EXTINF:-1 tvg-id="Cosmopolitan.es" tvg-name="COSMO ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cosmo.png" ,COSMO HD
 rtp://@239.0.5.71:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/sundancetv.png" ,Sundance
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17147
@@ -93,109 +93,109 @@ http://www.sansat.net:25461/live/021434618008/021434618008/14971.ts
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/6722
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dmax.png" ,DMAX
 rtp://@239.0.0.32:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar HD
+#EXTINF:-1 tvg-id="Viajar.es" tvg-name="Viajar ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17153
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12717.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic HD
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="National Geographic ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17145
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/9441.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild HD
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="Nat Geo Wild ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17146
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12698.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/aplanet.png" ,Animal Planet
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/11606.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/historia.png" ,Historia
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="Historia ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/historia.png" ,Historia
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/2728
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="Discovery.es" tvg-name="Discovery ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,DISCOVERY CHANNEL HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/2703
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,DISCOVERY CHANNEL HD
 http://www.sansat.net:25461/live/021434618008/021434618008/14962.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/odisea.png" ,Odisea
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="Odisea ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/odisea.png" ,Odisea
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17734
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/odisea.png" ,Odisea
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/9417.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/blaze.png" ,BLAZE
 http://www.sansat.net:25461/live/021434618008/021434618008/15013.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/decasa.png" ,Canal Decasa
+#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="Canal Decasa ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/decasa.png" ,Canal Decasa
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/5426
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cocina.png" ,Canal Cocina
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="Canal Cocina ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cocina.png" ,Canal Cocina
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/5425
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/40tv.png" ,40 TV
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/6720
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mtv.png" ,MTV
+#EXTINF:-1 tvg-id="MTV.es" tvg-name="MTV ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mtv.png" ,MTV
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/6985
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/sol.png" ,SOL
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30745
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mega.png" ,MEGA
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mega.png" ,MEGA
 rtp://@239.0.3.31:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/neox.png" ,Neox
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/neox.png" ,Neox
 rtp://@239.0.0.107:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/a3series.png" ,Atreseries FHD
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/a3series.png" ,Atreseries HD
 rtp://@239.0.0.190:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fdf.png" ,Factoria de Ficcion
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-name="Factoría de Ficción ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fdf.png" ,Factoria de Ficcion
 rtp://@239.0.0.84:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/divinity.png" ,Divinity
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/divinity.png" ,Divinity
 rtp://@239.0.0.48:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/energy.png" ,Energy
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="Energy ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/energy.png" ,Energy
 rtp://@239.0.0.59:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/bemad.png" ,BE MAD
 rtp://@239.0.0.182:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/otra.png" ,La Otra
 rtp://@239.0.0.26:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/csur.png" ,Canal Sur Andalucia
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="Canal Sur Andalucía ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/csur.png" ,Canal Sur Andalucia
 rtp://@239.0.0.1:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/galicia.png" ,TVG - TV Galicia
+#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="TV Galicia ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/galicia.png" ,TV Galicia
 rtp://@239.0.3.37:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/extremadura.png" ,Canal Extremadura SAT
 rtp://@239.0.0.52:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tv3.png" ,TV3CAT
+#EXTINF:-1 tvg-id="TV3Cat.es" tvg-name="TV3 Cat ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tv3.png" ,TV3 CAT
 rtp://@239.0.3.36:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/etb.png" ,ETB Sat
 rtp://@239.0.0.60:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/aragon.png" ,Aragón TV Int
+#EXTINF:-1 tvg-id="AragonTV.es" tvg-name="Aragón TV Int ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/aragon.png" ,Aragón TV Int
 rtp://@239.0.0.81:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/murcia.png" ,7Rrgional de Murcia
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/31371
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/canarias.png" ,RTV Canarias
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/31517
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nickjr.png" ,NICK JR
+#EXTINF:-1 tvg-id="NickJr.es" tvg-name="NICK JR ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nickjr.png" ,NICK JR
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/2707
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dxd.png" ,Disney XD
+#EXTINF:-1 tvg-id="DisneyXD.es" tvg-name="Disney XD ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dxd.png" ,Disney XD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/2709
-#EXTINF:-1 tvg-logo="http://www.Movistarplus.es/recorte/m-NEO/guiapc/PLAYDC.png" ,Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.es" tvg-name="Disney Junior ES" tvg-logo="http://www.Movistarplus.es/recorte/m-NEO/guiapc/PLAYDC.png" ,Disney Junior
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/2710
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel HD
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="Disney Channel ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel HD
 rtp://@239.0.0.173:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdisney.png" ,M. Disney
 rtp://@239.0.0.239:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/panda.png" ,Canal Panda
+#EXTINF:-1 tvg-id="CanalPanda.es" tvg-name="Canal Panda ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/panda.png" ,Canal Panda
 rtp://@239.0.0.117:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nick.png" ,Nickelodeon HD
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nick.png" ,Nickelodeon HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/5419
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/clan.png" ,Clan TVE
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="Clan TVE ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/clan.png" ,Clan TVE
 rtp://@239.0.0.184:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/boing.png" ,Boing
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/boing.png" ,Boing
 rtp://@239.0.0.66:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/babytv.png" ,Baby TV
+#EXTINF:-1 tvg-id="BabyTV.es" tvg-name="Baby TV ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/babytv.png" ,Baby TV
 rtp://@239.0.0.113:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/vamos.png" ,#Vamos HD
 rtp://@239.0.5.197:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="Movistar Fórmula 1 ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17137
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12701.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
+#EXTINF:-1 tvg-id="MovistarMotoGP.es" tvg-name="Movistar Moto GP ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17140
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12700.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
+#EXTINF:-1 tvg-id="MovistarDeportes1.es" tvg-name="Movistar Deportes 1 ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17135
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12723.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
+#EXTINF:-1 tvg-id="MovistarDeportes2.es" tvg-name="Movistar Deportes 2 ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17131
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12724.m3u8
@@ -235,11 +235,11 @@ http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13693.ts
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17018
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/liga123.png" ,LaLiga 123 HD
 http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/52089.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
+#EXTINF:-1 tvg-id="MovistarFutbol.es" tvg-name="Movistar Fútbol ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17138
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12721.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
+#EXTINF:-1 tvg-id="MovistarPartidazo.es" tvg-name="Movistar Partidazo ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
 rtp://@239.0.5.84:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12716.m3u8
@@ -263,11 +263,11 @@ http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30764
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30763
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 8 HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30762
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="Eurosport 1 ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17124
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12707.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro2.png" ,Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="Eurosport 2 ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro2.png" ,Eurosport 2
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/6695
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/11776
@@ -311,25 +311,25 @@ http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16871.m3u8
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16872.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 8
 http://premium-iptv.link:6969/live/asu.sgord.y@gmail.com/oBc93GN7JY/16873.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/iberalia.png" ,Iberalia TV
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="Iberalia TV ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/iberalia.png" ,Iberalia TV
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/5427
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca HD
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caza y Pesca ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17119
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca HD
 http://www.sansat.net:25461/live/021434618008/021434618008/15007.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/teledeporte.png" ,Teledeporte
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/teledeporte.png" ,Teledeporte HD
 rtp://@239.0.0.188:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/rmadrid.png" ,Real Madrid TV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/rmadrid.png" ,Real Madrid TV
 rtp://@239.0.0.179:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/gol.png" ,GOL
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="GOL ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/gol.png" ,GOL
 rtp://@239.0.0.7:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/msports.png" ,M. eSports
 rtp://@239.0.0.178:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
+#EXTINF:-1 tvg-id="TorosTV.es" tvg-name="Toros TV ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17152
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12713.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf HD
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="Movistar Golf ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17139
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12720.m3u8
