@@ -1,4 +1,4 @@
-#EXTM3U tvg-shift=0
+#EXTM3U tvg-shift=-1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1.png" ,LA 1 HD
 rtp://@239.0.0.185:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la2.png" ,LA 2
