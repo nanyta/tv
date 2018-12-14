@@ -3,7 +3,7 @@
 rtp://@239.0.0.185:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la2.png" ,LA 2
 rtp://@239.0.0.183:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/antena3.png" ,Antena 3 HD
+#EXTINF:-1 tvg-name="Atreseries.es" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/antena3.png",ES: Antena 3 HD
 rtp://@239.0.0.186:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cuatro.png" ,Cuatro HD
 rtp://@239.0.0.177:8208
