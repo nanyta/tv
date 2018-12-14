@@ -1,7 +1,7 @@
 #EXTM3U tvg-shift=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1.png" ,LA 1 HD
 rtp://@239.0.0.185:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la2.png" ,LA 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la2.png" ,LA 2
 rtp://@239.0.0.183:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/antena3.png" ,Antena 3 HD
 rtp://@239.0.0.186:8208
@@ -32,25 +32,29 @@ http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17133
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12726.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
-http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17133
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17132
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12727.m3u8
-#EXTINF:-1 tvg-logo="http://picon.space/Movistarcineespagnol.png" ,Movistar Cine Espanol
-http://www.sansat.net:25461/live/021434618008/021434618008/14976.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/espanol.png" ,Movistar Cine Espanol
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/31563
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/somos.png" ,Somos
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30742
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17149
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12695.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/amc.png" ,AMC HD
-rtp://@239.0.9.132:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Network
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/5415
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Channel
 rtp://@239.0.0.90:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywood.png" ,Hollywood HD
 rtp://@239.0.5.76:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/doc.png" ,Movistar CineDoc&Roll HD
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/31562
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/xtrm.png" ,XTRM
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17369
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dark.png" ,DARK
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/22493.m3u8
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30743
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series HD
 rtp://@239.0.5.250:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseriesxtra.png" ,Movistar Series Xtra HD
@@ -123,6 +127,8 @@ http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/5425
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/6720
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mtv.png" ,MTV
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/6985
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/sol.png" ,SOL
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30745
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mega.png" ,MEGA
 rtp://@239.0.3.31:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/neox.png" ,Neox
@@ -151,6 +157,10 @@ rtp://@239.0.3.36:8208
 rtp://@239.0.0.60:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/aragon.png" ,Aragón TV Int
 rtp://@239.0.0.81:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/murcia.png" ,7Rrgional de Murcia
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/31371
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/canarias.png" ,RTV Canarias
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/31517
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nickjr.png" ,NICK JR
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/2707
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dxd.png" ,Disney XD
@@ -234,19 +244,25 @@ rtp://@239.0.5.84:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12716.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones HD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/18684.ts
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30753
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones HD
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30737
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 1 HD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13948.ts
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30738
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 2 HD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13947.ts
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30739
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 3 HD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13946.ts
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30740
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 4 HD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13945.ts
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30741
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 5 HD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13944.ts
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30765
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 6 HD
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30764
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 7 HD
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30763
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,M. Liga de Campeones 8 HD
-http://365tv.info:999/live/yiKhDe9BJq/ooqaznfOt6/13941.ts
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/30762
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
 http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17124
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
