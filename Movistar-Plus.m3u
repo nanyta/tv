@@ -177,8 +177,8 @@ http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12701.m3u8
 http://www.sansat.net:25461/live/021434618008/021434618008/14979.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12700.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
-http://www.sansat.net:25461/live/021434618008/021434618008/14967.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 FHD
+http://iptv-line.com:6969/asusgo.rdy@gmail.com/vy0f5Uk161/17135.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12723.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
@@ -224,7 +224,7 @@ http://www.sansat.net:25461/live/021434618008/021434618008/14990.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12721.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
-http://www.sansat.net:25461/live/021434618008/021434618008/14980.ts
+rtp://@239.0.5.84:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12716.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lcampeones.png" ,Movistar L. Campeones HD
