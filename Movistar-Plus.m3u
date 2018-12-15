@@ -9,7 +9,7 @@ rtp://@239.0.0.186:8208
 rtp://@239.0.0.177:8208
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/telecinco.png" ,Telecinco HD
 rtp://@239.0.0.176:8208
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="La Sexta ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lasexta.png" ,La Sexta HD
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lasexta.png" ,La Sexta FHD
 rtp://@239.0.0.187:8208
 #EXTINF:-1 tvg-id="TeleMadrid.es" tvg-name="Tele Madrid ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tmadrid.png" ,Telemadrid HD
 rtp://@239.0.0.25:8208
