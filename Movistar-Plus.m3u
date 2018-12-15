@@ -63,7 +63,7 @@ rtp://@239.0.5.83:8208
 rtp://@239.0.5.74:8208
 #EXTINF:-1 tvg-id="TNT.es" tvg-name="TNT ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tnt.png" ,TNT HD
 rtp://@239.0.5.87:8208
-#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN HD
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN HD
 rtp://@239.0.9.131:8208
 #EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="AXN White ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White HD
 http://iptv-line.com:6969/asusgordy@googlemail.com/cBVQddpGMm/17116
