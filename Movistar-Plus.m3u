@@ -1,5 +1,5 @@
 #EXTM3U tvg-shift=-1
-#EXTINF:-1 group-title="TDT" tvg-id="TVE ASTRA HD 1.sp" tvg-name="LA 1 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1.png" ,LA 1 HD
+#EXTINF:-1 group-title="TDT" tvg-id="TVE ASTRA HD 1.sp" tvg-name="LA 1 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1.png" ,LA 1 FHD
 rtp://@239.0.0.185:8208
 #EXTINF:-1 tvg-id="LA2.es" tvg-name="LA 2 ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la2.png" ,LA 2 HD
 rtp://@239.0.0.183:8208
