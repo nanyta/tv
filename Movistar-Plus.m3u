@@ -13,7 +13,7 @@ rtp://@239.0.0.176:8208
 rtp://@239.0.0.187:8208
 #EXTINF:-1 tvg-name="Tele Madrid ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tmadrid.png" ,Telemadrid HD
 rtp://@239.0.0.25:8208
-#EXTINF:-1 tvg-name="#0 HD" tvg-logo="https://www.mundoplus.tv/img/cffada6262de59de1c334cfb7809aa60" ,#0 HD
+#EXTINF:-1 tvg-name="#0 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0 HD
 rtp://@239.0.5.187:8208
 #EXTINF:-1 tvg-name="Movistar Xtra HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
 http://iptv-line.com:6969/asusgordy@googlemail.com/cBVQddpGMm/17144
@@ -23,7 +23,7 @@ http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12712.m3u8
 http://iptv-line.com:6969/asusgordy@googlemail.com/cBVQddpGMm/17136
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12722.m3u8
-#EXTINF:-1 tvg-name="Movistar DCine HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar Drama HD
+#EXTINF:-1 tvg-id="CPCOLE ASTRA HD 1.sp" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar Drama HD
 http://iptv-line.com:6969/asusgordy@googlemail.com/cBVQddpGMm/17134
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar Drama HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12725.m3u8
@@ -35,7 +35,7 @@ http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12726.m3u8
 http://iptv-line.com:6969/asusgordy@googlemail.com/cBVQddpGMm/17132
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
 http://tv.sharkiptv.hitv.one:80/live/1Lv7QMI745/zyPv9K937/12727.m3u8
-#EXTINF:-1 tvg-name="Movistar Cine Espanol" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/espanol.png" ,Movistar Cine Español
+#EXTINF:-1 tvg-id="DCESP ASTRA SD 1.sp" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/espanol.png" ,Movistar Cine Español
 http://iptv-line.com:6969/asusgordy@googlemail.com/cBVQddpGMm/31563
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/somos.png" ,Somos
 http://iptv-line.com:6969/asusgordy@googlemail.com/cBVQddpGMm/30742
