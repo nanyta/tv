@@ -197,7 +197,7 @@ rtp://@239.0.0.184:8208
 rtp://@239.0.0.66:8208
 #EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/babytv.png" ,Baby TV
 rtp://@239.0.0.113:8208
-#EXTINF:-1 tvg-name="#Vamos HD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" ,#Vamos HD
+#EXTINF:-1 tvg-name="#Vamos HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/vamos.jpg" ,#Vamos HD
 rtp://@239.0.5.197:8208
 #EXTINF:-1 tvg-name="Movistar Formula 1 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
 http://iptv-line.com:6969/asusgordy@googlemail.com/cBVQddpGMm/17137
