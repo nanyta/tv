@@ -11,8 +11,6 @@ rtp://@239.0.0.177:8208
 rtp://@239.0.0.176:8208
 #EXTINF:-1 tvg-name="La Sexta HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lasexta.png" ,La Sexta HD
 rtp://@239.0.0.187:8208
-#EXTINF:-1 tvg-name="Tele Madrid ES" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tmadrid.png" ,Telemadrid HD
-rtp://@239.0.0.25:8208
 #EXTINF:-1 tvg-name="#0 HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0 HD
 rtp://@239.0.5.187:8208
 #EXTINF:-1 tvg-name="Movistar Xtra HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
@@ -151,6 +149,8 @@ rtp://@239.0.0.182:8208
 rtp://@239.0.0.26:8208
 #EXTINF:-1 tvg-name="13 TV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/13tv.png" ,13 TV
 rtp://@239.0.0.91:8208
+#EXTINF:-1 tvg-name="Tele Madrid ES" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TELMAD.png" ,Telemadrid HD
+rtp://@239.0.0.25:8208
 #EXTINF:-1 tvg-name="Andalucia TV" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/csur.png" ,Andalucia TV
 rtp://@239.0.0.1:8208
 #EXTINF:-1 tvg-name="Canal Sur Andalucia HD" tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/csur.png" ,Canal Sur Andalucia
